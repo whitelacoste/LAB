@@ -5,5 +5,7 @@ int main(){
     printf("¬ведите числа ");
     scanf("%d %d",&a,&b);
 
+
+    printf("—умма чисел: %d", a+b);
     return 0;
 }
